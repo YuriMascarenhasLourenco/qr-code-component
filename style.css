@@ -1,0 +1,44 @@
+body{
+        background: hsl(220,15%,55%);
+        
+    
+}
+ .post{
+    background-color:white;
+    position:absolute;
+    right: 675px;
+    top: 230px;
+    padding: 10px;
+    border-radius:5%;
+    
+    max-width: 200px ;
+    
+}
+.post img{
+    width:200px;
+    height: 200px;
+    border-radius:5%;
+}
+.post h5{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    left:8px;
+    bottom: 8px;
+    font-weight: 700;
+    font-size: 15px;
+    color:black
+
+}
+.post p{
+    position:relative;
+    left: 8px;
+    bottom: 4px;
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220,15%,55%)
+    
+}
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  
